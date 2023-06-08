@@ -7,7 +7,6 @@
         "state": "veniam",
         "postal": "sit",
         "country": "Mexico",
-        "dept": "hr",
         "joinedDate": "2021-12-22",
         "miles": 68
     },
@@ -19,8 +18,8 @@
         "state": "Karnataka",
         "postal": "560100",
         "country": "India",
-        "dept": "finance",
         "joinedDate": "2021-11-15",
         "miles": 49
     }
 ]
+
